@@ -1,0 +1,262 @@
+<records>
+<record>
+<user_id>U101</user_id>
+<song_id>S206</song_id>
+<artist_id>A305</artist_id>
+<timestamp>2016-07-10 01:38:09</timestamp>
+<start_ts>2017-05-09 08:09:22</start_ts>
+<end_ts>2017-05-09 08:09:22</end_ts>
+<geo_cd>E</geo_cd>
+<station_id>ST407</station_id>
+<song_end_type>0</song_end_type>
+<like>0</like>
+<dislike>1</dislike>
+</record>
+<record>
+<user_id>U108</user_id>
+<song_id>S204</song_id>
+<artist_id>A302</artist_id>
+<timestamp>2016-05-10 12:24:22</timestamp>
+<start_ts>2016-05-10 12:24:22</start_ts>
+<end_ts>2016-05-10 12:24:22</end_ts>
+<geo_cd>E</geo_cd>
+<station_id>ST407</station_id>
+<song_end_type>1</song_end_type>
+<like>0</like>
+<dislike>1</dislike>
+</record>
+<record>
+<user_id>U107</user_id>
+<song_id>S210</song_id>
+<artist_id>A303</artist_id>
+<timestamp>2017-05-09 08:09:22</timestamp>
+<start_ts>2016-06-09 22:12:36</start_ts>
+<end_ts>2016-07-10 01:38:09</end_ts>
+<geo_cd>AP</geo_cd>
+<station_id>ST411</station_id>
+<song_end_type>3</song_end_type>
+<like>0</like>
+<dislike>0</dislike>
+</record>
+<record>
+<user_id>U110</user_id>
+<song_id>S203</song_id>
+<artist_id>A305</artist_id>
+<timestamp>2016-07-10 01:38:09</timestamp>
+<start_ts>2016-06-09 22:12:36</start_ts>
+<end_ts>2016-06-09 22:12:36</end_ts>
+<geo_cd>U</geo_cd>
+<station_id>ST401</station_id>
+<song_end_type>1</song_end_type>
+<like>1</like>
+<dislike>1</dislike>
+</record>
+<record>
+<user_id>U102</user_id>
+<song_id>S201</song_id>
+<artist_id>A303</artist_id>
+<timestamp>2017-05-09 08:09:22</timestamp>
+<start_ts>2016-06-09 22:12:36</start_ts>
+<end_ts>2016-05-10 12:24:22</end_ts>
+<geo_cd>E</geo_cd>
+<station_id>ST408</station_id>
+<song_end_type>2</song_end_type>
+<like>0</like>
+<dislike>1</dislike>
+</record>
+<record>
+<user_id></user_id>
+<song_id>S202</song_id>
+<artist_id>A303</artist_id>
+<timestamp>2016-05-10 12:24:22</timestamp>
+<start_ts>2017-05-09 08:09:22</start_ts>
+<end_ts>2016-06-09 22:12:36</end_ts>
+<geo_cd>U</geo_cd>
+<station_id>ST412</station_id>
+<song_end_type>3</song_end_type>
+<like>1</like>
+<dislike>1</dislike>
+</record>
+<record>
+<user_id>U105</user_id>
+<song_id>S208</song_id>
+<artist_id>A302</artist_id>
+<timestamp>2016-05-10 12:24:22</timestamp>
+<start_ts>2017-05-09 08:09:22</start_ts>
+<end_ts>2016-07-10 01:38:09</end_ts>
+<geo_cd>AP</geo_cd>
+<station_id>ST403</station_id>
+<song_end_type>0</song_end_type>
+<like>1</like>
+<dislike>0</dislike>
+</record>
+<record>
+<user_id>U101</user_id>
+<song_id>S209</song_id>
+<artist_id>A305</artist_id>
+<timestamp>2016-05-10 12:24:22</timestamp>
+<start_ts>2016-06-09 22:12:36</start_ts>
+<end_ts>2017-05-09 08:09:22</end_ts>
+<geo_cd>A</geo_cd>
+<station_id>ST409</station_id>
+<song_end_type>1</song_end_type>
+<like>1</like>
+<dislike>1</dislike>
+</record>
+<record>
+<user_id>U120</user_id>
+<song_id>S204</song_id>
+<artist_id>A303</artist_id>
+<timestamp>2016-07-10 01:38:09</timestamp>
+<start_ts>2016-05-10 12:24:22</start_ts>
+<end_ts>2016-05-10 12:24:22</end_ts>
+<geo_cd></geo_cd>
+<station_id>ST404</station_id>
+<song_end_type>1</song_end_type>
+<like>1</like>
+<dislike>1</dislike>
+</record>
+<record>
+<user_id>U116</user_id>
+<song_id>S209</song_id>
+<artist_id></artist_id>
+<timestamp>2016-05-10 12:24:22</timestamp>
+<start_ts>2016-05-10 12:24:22</start_ts>
+<end_ts>2016-07-10 01:38:09</end_ts>
+<geo_cd>E</geo_cd>
+<station_id>ST414</station_id>
+<song_end_type>3</song_end_type>
+<like>0</like>
+<dislike>0</dislike>
+</record>
+<record>
+<user_id>U112</user_id>
+<song_id>S201</song_id>
+<artist_id>A303</artist_id>
+<timestamp>2016-05-10 12:24:22</timestamp>
+<start_ts>2016-07-10 01:38:09</start_ts>
+<end_ts>2016-07-10 01:38:09</end_ts>
+<geo_cd>U</geo_cd>
+<station_id>ST403</station_id>
+<song_end_type>1</song_end_type>
+<like>1</like>
+<dislike>0</dislike>
+</record>
+<record>
+<user_id>U108</user_id>
+<song_id>S206</song_id>
+<artist_id>A303</artist_id>
+<timestamp>2016-07-10 01:38:09</timestamp>
+<start_ts>2016-06-09 22:12:36</start_ts>
+<end_ts>2016-05-10 12:24:22</end_ts>
+<geo_cd>U</geo_cd>
+<station_id>ST403</station_id>
+<song_end_type>0</song_end_type>
+<like>0</like>
+<dislike>0</dislike>
+</record>
+<record>
+<user_id>U107</user_id>
+<song_id>S200</song_id>
+<artist_id>A301</artist_id>
+<timestamp>2016-07-10 01:38:09</timestamp>
+<start_ts>2017-05-09 08:09:22</start_ts>
+<end_ts>2017-05-09 08:09:22</end_ts>
+<geo_cd>U</geo_cd>
+<station_id>ST411</station_id>
+<song_end_type>0</song_end_type>
+<like>1</like>
+<dislike>1</dislike>
+</record>
+<record>
+<user_id>U106</user_id>
+<song_id>S205</song_id>
+<artist_id>A304</artist_id>
+<timestamp>2016-07-10 01:38:09</timestamp>
+<start_ts>2016-05-10 12:24:22</start_ts>
+<end_ts>2016-05-10 12:24:22</end_ts>
+<geo_cd>A</geo_cd>
+<station_id>ST403</station_id>
+<song_end_type>3</song_end_type>
+<like>0</like>
+<dislike>1</dislike>
+</record>
+<record>
+<user_id>U118</user_id>
+<song_id>S200</song_id>
+<artist_id>A300</artist_id>
+<timestamp>2016-06-09 22:12:36</timestamp>
+<start_ts>2017-05-09 08:09:22</start_ts>
+<end_ts>2017-05-09 08:09:22</end_ts>
+<geo_cd>U</geo_cd>
+<station_id>ST408</station_id>
+<song_end_type>1</song_end_type>
+<like>1</like>
+<dislike>1</dislike>
+</record>
+<record>
+<user_id>U111</user_id>
+<song_id>S206</song_id>
+<artist_id>A300</artist_id>
+<timestamp>2016-07-10 01:38:09</timestamp>
+<start_ts>2017-05-09 08:09:22</start_ts>
+<end_ts>2016-05-10 12:24:22</end_ts>
+<geo_cd>E</geo_cd>
+<station_id>ST410</station_id>
+<song_end_type>3</song_end_type>
+<like>0</like>
+<dislike>0</dislike>
+</record>
+<record>
+<user_id>U115</user_id>
+<song_id>S205</song_id>
+<artist_id>A304</artist_id>
+<timestamp>2017-05-09 08:09:22</timestamp>
+<start_ts>2017-05-09 08:09:22</start_ts>
+<end_ts>2017-05-09 08:09:22</end_ts>
+<geo_cd>E</geo_cd>
+<station_id>ST404</station_id>
+<song_end_type>1</song_end_type>
+<like>1</like>
+<dislike>0</dislike>
+</record>
+<record>
+<user_id>U108</user_id>
+<song_id>S208</song_id>
+<artist_id>A300</artist_id>
+<timestamp>2016-07-10 01:38:09</timestamp>
+<start_ts>2017-05-09 08:09:22</start_ts>
+<end_ts>2017-05-09 08:09:22</end_ts>
+<geo_cd>A</geo_cd>
+<station_id>ST412</station_id>
+<song_end_type>1</song_end_type>
+<like>0</like>
+<dislike>1</dislike>
+</record>
+<record>
+<user_id>U106</user_id>
+<song_id>S204</song_id>
+<artist_id>A305</artist_id>
+<timestamp>2016-06-09 22:12:36</timestamp>
+<start_ts>2016-05-10 12:24:22</start_ts>
+<end_ts>2017-05-09 08:09:22</end_ts>
+<geo_cd>A</geo_cd>
+<station_id>ST411</station_id>
+<song_end_type>0</song_end_type>
+<like>0</like>
+<dislike>1</dislike>
+</record>
+<record>
+<user_id>U107</user_id>
+<song_id>S200</song_id>
+<artist_id>A301</artist_id>
+<timestamp>2016-07-10 01:38:09</timestamp>
+<start_ts>2017-05-09 08:09:22</start_ts>
+<end_ts>2016-05-10 12:24:22</end_ts>
+<geo_cd>E</geo_cd>
+<station_id>ST413</station_id>
+<song_end_type>0</song_end_type>
+<like>1</like>
+<dislike>0</dislike>
+</record>
+</records>
